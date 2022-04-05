@@ -14,3 +14,6 @@ Startup your camera software annd focus the camera inside the telescope focuser.
 USO
 
 Inicie seu software de camera e em seguida lance o OPP e manualmente superponha os círculos concentricos ao focalizador na imagem.
+
+
+If you liked the software and want to help us, please consider do become a member of our youtube channel https://www.youtube.com/user/paulocacella
